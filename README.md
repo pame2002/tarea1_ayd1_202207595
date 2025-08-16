@@ -5,60 +5,60 @@
 
 ## API con canción favorita
 
-![API con canción favorita](./imgs/api_con_canción_favorita.png)
+La API inicial devuelve el nombre y la canción favorita en formato JSON.
 
-Descripción breve de api con canción favorita.
+![API con canción favorita](./imgs/api_con_canción_favorita.png)
 
 ## API corriendo
 
-![API corriendo](./imgs/api_corriendo.png)
+Se muestra la ejecución de la API en el servidor local, escuchando en el puerto 3000.
 
-Descripción breve de api corriendo.
+![API corriendo](./imgs/api_corriendo.png)
 
 ## Commit inicial (v1.0)
 
-![Commit inicial (v1.0)](./imgs/commit_inicial_(v1.0).png)
+Se registra el primer commit con el código base de la API en la rama main.
 
-Descripción breve de commit inicial (v1.0).
+![Commit inicial (v1.0)](./imgs/commit_inicial_(v1.0).png)
 
 ## Push inicial y creación del tag release-1.0
 
-![Push inicial y creación del tag release-1.0](./imgs/push_inicial_y_creación_del_tag_release-1.0.png)
+Se sube el proyecto a GitHub y se marca la versión inicial con el tag release-1.0.
 
-Descripción breve de push inicial y creación del tag release-1.0.
+![Push inicial y creación del tag release-1.0](./imgs/push_inicial_y_creación_del_tag_release-1.0.png)
 
 ## Cambios en el repositorio
 
-![Cambios en el repositorio](./imgs/cambios_en_el_repositorio.png)
+Se observan los cambios reflejados en GitHub después del push inicial.
 
-Descripción breve de cambios en el repositorio.
+![Cambios en el repositorio](./imgs/cambios_en_el_repositorio.png)
 
 ## Creación de la rama hotfix
 
-![Creación de la rama hotfix](./imgs/creación_de_la_rama_hotfix.png)
+Se crea una rama de corrección llamada hotfix para modificar la API.
 
-Descripción breve de creación de la rama hotfix.
+![Creación de la rama hotfix](./imgs/creación_de_la_rama_hotfix.png)
 
 ## Cambio en la API
 
-![Cambio en la API](./imgs/cambio_en_la_api.png)
+La API ahora muestra el álbum favorito en lugar de la canción favorita.
 
-Descripción breve de cambio en la api.
+![Cambio en la API](./imgs/cambio_en_la_api.png)
 
 ## Integración de la rama hotfix
 
-![Integración de la rama hotfix](./imgs/integración_de_la_rama_hotfix.png)
+Se hace merge de la rama hotfix hacia main para aplicar la corrección.
 
-Descripción breve de integración de la rama hotfix.
+![Integración de la rama hotfix](./imgs/integración_de_la_rama_hotfix.png)
 
 ## Creación del tag release-2.0
 
-![Creación del tag release-2.0](./imgs/creación_del_tag_release-2.0.png)
+Se marca la versión corregida de la API con el tag release-2.0.
 
-Descripción breve de creación del tag release-2.0.
+![Creación del tag release-2.0](./imgs/creación_del_tag_release-2.0.png)
 
 ## Eliminación de la rama hotfix
 
-![Eliminación de la rama hotfix](./imgs/eliminación_de_la_rama_hotfix.png)
+La rama hotfix es eliminada después de integrar y versionar los cambios.
 
-Descripción breve de eliminación de la rama hotfix.
+![Eliminación de la rama hotfix](./imgs/eliminación_de_la_rama_hotfix.png)
