@@ -7,7 +7,7 @@
 
 La API inicial devuelve el nombre y la canción favorita en formato JSON.
 
-![API con canción favorita](./imgs/api_con_canción_favorita.png)
+![API con canción favorita](imagen1)
 
 ## API corriendo
 
