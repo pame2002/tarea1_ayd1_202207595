@@ -7,19 +7,19 @@
 
 La API inicial devuelve el nombre y la canción favorita en formato JSON.
 
-![API con canción favorita](imagen1)
+![API con canción favorita](Imagen1.png)
 
 ## API corriendo
 
 Se muestra la ejecución de la API en el servidor local, escuchando en el puerto 3000.
 
-![API corriendo](./imgs/api_corriendo.png)
+![API corriendo](Imagen2.png)
 
 ## Commit inicial (v1.0)
 
 Se registra el primer commit con el código base de la API en la rama main.
 
-![Commit inicial (v1.0)](./imgs/commit_inicial_(v1.0).png)
+![Commit inicial (v1.0)](Imagen3.png)
 
 ## Push inicial y creación del tag release-1.0
 
