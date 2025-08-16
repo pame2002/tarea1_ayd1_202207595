@@ -32,31 +32,31 @@ Se sube el proyecto a GitHub y se marca la versión inicial con el tag release-1
 Se observan los cambios reflejados en GitHub después del push inicial.
 
 ![Cambios en el repositorio](Imagen5.png)
-![](Imagen6.png)
+![Cambios P2](Imagen6.png)
 
 ## Creación de la rama hotfix
 
 Se crea una rama de corrección llamada hotfix para modificar la API.
 
-![Creación de la rama hotfix]((Imagen7.png))
+![Creación de la rama hotfix](Imagen7.png)
 
 ## Cambio en la API
 
 La API ahora muestra el álbum favorito en lugar de la canción favorita.
 
-![Cambio en la API]((Imagen8.png))
+![Cambio en la API](Imagen8.png)
 
 ## Integración de la rama hotfix
 
 Se hace merge de la rama hotfix hacia main para aplicar la corrección.
 
-![Integración de la rama hotfix]((Imagen9.png))
+![Integración de la rama hotfix](Imagen9.png)
 
 ## Creación del tag release-2.0
 
 Se marca la versión corregida de la API con el tag release-2.0.
 
-![Creación del tag release-2.0]((Imagen10.png))
+![Creación del tag release-2.0](Imagen10.png)
 ![](Imagen11.png)
 
 ## Eliminación de la rama hotfix
